@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospital Software <br>🌱 I’m currently learning Express Js<br>
+🔭 I’m currently working on Hospital Software 
 
 
 ## 🌐 Socials:
