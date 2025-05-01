@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Hospital Software 
+🔭 I’m currently working on ERP Software for Schools & Colleges
 
 
 ## 🌐 Socials:
