@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋, I'm Vedant Sunil Ghole<br><br>👋 A passionate Software Tester from Nagpur <br>🌱 I’m currently practicing my skills in Automation Testing as well as Manual Testing<br>👨‍💻 All of my projects are available at "https://vedant-portfolio-chi.vercel.app"<br>
+Hi 👋, I'm Vedant Sunil Ghole<br><br>👋 A passionate Quality Assurance Engineer from Nagpur <br>🌱 I’m currently practicing my skills in Automation Testing as well as Manual Testing<br>👨‍💻 All of my projects are available at "https://vedant-portfolio-chi.vercel.app"<br>
 
 
 ## 🌐 Socials:
